@@ -1,9 +1,12 @@
 <h1>Tela de Login Simples</h1>
+ 
  Status: Pronto
  
-  ## Sobre o projeto
+## Sobre o projeto
 Tela de Login feita em html e css
- ## Tecnologia usadas no projeto
+
+## Tecnologia usadas no projeto
+
 <table>
     <tr>
     <td>HTML</td>
